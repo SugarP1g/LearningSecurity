@@ -8,3 +8,6 @@
     - [SVG XSS的一个黑魔法](https://www.hackersb.cn/hacker/85.html)
   - XXE
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
+  - ReDos
+    - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
+    - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
