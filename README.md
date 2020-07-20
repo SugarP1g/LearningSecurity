@@ -14,6 +14,8 @@
   - 文件上传
     - [简单粗暴的文件上传漏洞](https://paper.seebug.org/560/)
     - [Upload-labs通关手册](https://xz.aliyun.com/t/2435)
-
-
-?><?=`/???/???%20/????`;?>
+  - CRLF
+    - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
+- JavaScript
+  - 原型污染
+    - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
