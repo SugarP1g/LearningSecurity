@@ -11,6 +11,7 @@
   - ReDos
     - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
     - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
+    - [Revisiting ReDoS: A Rough Idea of Data Exfiltration by ReDoS and Side-channel Techniques](https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques)
   - 文件上传
     - [简单粗暴的文件上传漏洞](https://paper.seebug.org/560/)
     - [Upload-labs通关手册](https://xz.aliyun.com/t/2435)
@@ -19,6 +20,3 @@
 - JavaScript
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
-
-
-?><?=`/???/???%20/????`;?>
