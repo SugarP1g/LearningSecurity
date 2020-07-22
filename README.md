@@ -11,6 +11,8 @@
   - ReDos
     - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
     - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
+  - blind regex injection
+    - [A Rough Idea of Blind Regular Expression Injection Attack](https://diary.shift-js.info/blind-regular-expression-injection/)
     - [Revisiting ReDoS: A Rough Idea of Data Exfiltration by ReDoS and Side-channel Techniques](https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques)
   - 文件上传
     - [简单粗暴的文件上传漏洞](https://paper.seebug.org/560/)
