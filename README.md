@@ -9,6 +9,7 @@
   - XSS
     - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
     - [SVG XSS的一个黑魔法](https://www.hackersb.cn/hacker/85.html)
+    - [XSS靶场](http://prompt.ml/4)
   - XXE
     - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
