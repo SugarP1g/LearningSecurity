@@ -31,6 +31,8 @@
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
 - Java
+  - OGNL注入
+    - [浅析 OGNL 的攻防史](https://paper.seebug.org/794/)
   - 表达式注入
     - EL表达式注入
       - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
