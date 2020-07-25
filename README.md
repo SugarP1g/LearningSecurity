@@ -3,6 +3,9 @@
 - web
   - 同源策略
     - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+  - SSL/TLS
+    - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+    - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
   - XSS
     - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
     - [SVG XSS的一个黑魔法](https://www.hackersb.cn/hacker/85.html)
