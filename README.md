@@ -30,3 +30,6 @@
   - 表达式注入
     - EL表达式注入
       - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
+  - 反序列化
+    - XMLDecoder反序列化
+      - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
