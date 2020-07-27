@@ -1,6 +1,6 @@
 # Hello, Security!
 
-- web
+- **web**
   - 同源策略
     - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
   - SSL/TLS
@@ -27,10 +27,10 @@
     - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
   - SSRF
     - [SSRF绕过方法总结](http://byd.dropsec.xyz/2017/11/21/SSRF%E7%BB%95%E8%BF%87%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
-- JavaScript
+- **JavaScript**
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
-- Java
+- **Java**
   - 表达式注入
     - OGNL注入
       - [浅析 OGNL 的攻防史](https://paper.seebug.org/794/)
@@ -45,6 +45,6 @@
       - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
     - XStream反序列化
       - [Java XStream反序列化漏洞](https://www.mi1k7ea.com/2019/10/21/XStream%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
-- Tools
+- **Tools**
   - Burpsuite
     - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
