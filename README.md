@@ -37,6 +37,7 @@
     - Spel表达式注入
       - [SpEL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/01/10/SpEL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
     - EL表达式注入
+      - [浅析EL表达式注入漏洞](https://xz.aliyun.com/t/7692)
       - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
     - JBoss EL表达式注入
       - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
