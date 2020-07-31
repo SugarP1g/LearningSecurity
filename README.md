@@ -41,6 +41,9 @@
       - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
     - JBoss EL表达式注入
       - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
+  - 模板注入
+    - Freemarker模板注入
+      - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
   - 反序列化
     - XMLDecoder反序列化
       - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
