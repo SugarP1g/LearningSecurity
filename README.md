@@ -30,7 +30,7 @@
   - SSRF
     - [SSRF绕过方法总结](http://byd.dropsec.xyz/2017/11/21/SSRF%E7%BB%95%E8%BF%87%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
   - 缓冲区投毒
-    - CPDOS
+    - CPDoS
       - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
 - **JavaScript**
   - 原型污染
