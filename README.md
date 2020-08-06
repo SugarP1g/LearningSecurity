@@ -32,6 +32,7 @@
   - 缓冲区投毒
     - CPDoS
       - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
+      - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
 - **JavaScript**
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
