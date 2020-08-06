@@ -23,6 +23,8 @@
     - [简单粗暴的文件上传漏洞](https://paper.seebug.org/560/)
     - [Upload-labs通关手册](https://xz.aliyun.com/t/2435)
     - [文件解析漏洞总结](https://www.smi1e.top/%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
+    - zip bomb
+      - [zip炸弹制作](https://github.com/abdulfatir/ZipBomb)
   - CRLF
     - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
   - SSRF
