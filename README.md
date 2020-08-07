@@ -13,6 +13,9 @@
   - XXE
     - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
+  - SQL注入
+    - 宽字节注入
+      - [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
   - ReDos
     - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
     - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
