@@ -14,6 +14,7 @@
     - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
   - SQL注入
+    - [SQL注入绕过技巧](http://byd.dropsec.xyz/2016/08/01/SQL-Injection%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7/)
     - 宽字节注入
       - [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
   - ReDos
