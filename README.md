@@ -3,6 +3,8 @@
 - **web**
   - 同源策略
     - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+  - HTTP请求头
+    - [一些安全相关的HTTP响应头](https://imququ.com/post/web-security-and-response-header.html)
   - SSL/TLS
     - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
     - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
