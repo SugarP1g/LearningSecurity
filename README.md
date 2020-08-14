@@ -68,6 +68,7 @@
 - **容器**
   - docker容器逃逸
     - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
+    - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
 - **Tools**
   - Burpsuite
     - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
