@@ -74,6 +74,7 @@
     - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
 - **Tools**
   - Burpsuite
+    - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
     - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
 - **书籍**
     - [HackTricks](https://book.hacktricks.xyz/)
