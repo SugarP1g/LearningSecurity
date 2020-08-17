@@ -22,9 +22,12 @@
     - [SQL注入绕过技巧](http://byd.dropsec.xyz/2016/08/01/SQL-Injection%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7/)
     - 宽字节注入
       - [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
-  - ReDos
-    - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
-    - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
+  - DOS
+    - ReDos
+      - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
+      - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
+    - SLOW HTTP 
+      - [Slowhttptest攻击原理](https://cloud.tencent.com/developer/article/1180216)
   - blind regex injection
     - [A Rough Idea of Blind Regular Expression Injection Attack](https://diary.shift-js.info/blind-regular-expression-injection/)
     - [Revisiting ReDoS: A Rough Idea of Data Exfiltration by ReDoS and Side-channel Techniques](https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques)
