@@ -43,6 +43,9 @@
       - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
       - [cpdos网站](https://cpdos.org/)
       - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
+- **OS**
+  - 提权
+    - [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
 - **JavaScript**
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
