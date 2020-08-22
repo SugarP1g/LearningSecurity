@@ -13,6 +13,7 @@
     - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
     - [SVG XSS的一个黑魔法](https://www.hackersb.cn/hacker/85.html)
     - [无需括号与分号的XSS](https://www.anquanke.com/post/id/178610)
+    - [使用 Dom Clobbering 扩展 XSS](https://xz.aliyun.com/t/7329)
     - [XSS Game分析以及知识点总结](https://www.freebuf.com/articles/web/245209.html)
     - [XSS靶场](http://prompt.ml/4)
   - XXE
