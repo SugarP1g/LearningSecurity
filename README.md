@@ -41,6 +41,8 @@
     - [A better zip bomb](https://zerosun.top/2019/07/07/A-better-zip-bomb/)
   - CRLF
     - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
+  - CSRF
+    - [CSRF攻击技术浅析](https://xz.aliyun.com/t/8186)
   - SSRF
     - [SSRF绕过方法总结](http://byd.dropsec.xyz/2017/11/21/SSRF%E7%BB%95%E8%BF%87%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
   - 缓冲区投毒
