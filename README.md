@@ -102,6 +102,8 @@
   - RSA
     - [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
     - [RSA算法原理（二）](https://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
+  - AES
+    - [我对Padding Oracle攻击的分析和思考](https://www.freebuf.com/articles/web/15504.html)
 - **Tools**
   - Burpsuite
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
