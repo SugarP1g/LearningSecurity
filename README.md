@@ -10,6 +10,7 @@
     - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
     - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
   - XSS
+    - [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
     - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
     - [SVG XSS的一个黑魔法](https://www.hackersb.cn/hacker/85.html)
     - [无需括号与分号的XSS](https://www.anquanke.com/post/id/178610)
