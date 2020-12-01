@@ -60,6 +60,7 @@
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
 - **OS**
+  - [gtfobins:Unix二进制的利用方法查询库](https://gtfobins.github.io/)
   - 提权
     - [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
   - 命令注入
