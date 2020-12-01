@@ -97,6 +97,8 @@
   - JMX
     - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
 - **GoLang**
+- **Python**
+  - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
 - **容器**
   - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
   - docker容器逃逸
