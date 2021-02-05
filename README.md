@@ -102,6 +102,8 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
 - **GoLang**
 - **Python**
   - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
+  - SSTI
+    - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
 - **容器**
   - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
   - docker容器逃逸
