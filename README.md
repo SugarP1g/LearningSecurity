@@ -58,7 +58,7 @@
       - [cpdos网站](https://cpdos.org/)
       - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
   - HTTP request smuggling
-    - [HTTP Desync Attacks: Request Smuggling Rebor](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
+    - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
 - **OS**
