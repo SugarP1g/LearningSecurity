@@ -63,6 +63,8 @@
     - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
+  - MISC
+    - [代理测试指南](https://github.com/GrrrDog/weird_proxies)
 - **OS**
   - [Arm Heap Exploitation
 PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
