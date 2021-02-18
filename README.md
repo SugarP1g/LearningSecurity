@@ -59,6 +59,8 @@
       - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
   - HTTP request smuggling
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
+    - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
+    - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
 - **OS**
