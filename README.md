@@ -20,7 +20,7 @@
   - XXE
     - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
-  - 便签页劫持（Tabnabbing）
+  - 标签页劫持（Tabnabbing）
     - [钓鱼攻击之Reverse Tabnabbing](https://xz.aliyun.com/t/7080)
   - SQL注入
     - [SQL注入绕过技巧](http://byd.dropsec.xyz/2016/08/01/SQL-Injection%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7/)
