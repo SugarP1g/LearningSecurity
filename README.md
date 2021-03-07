@@ -20,6 +20,8 @@
   - XXE
     - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
+  - 标签页劫持（Tabnabbing）
+    - [钓鱼攻击之Reverse Tabnabbing](https://xz.aliyun.com/t/7080)
   - SQL注入
     - [SQL注入绕过技巧](http://byd.dropsec.xyz/2016/08/01/SQL-Injection%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7/)
     - 宽字节注入
@@ -57,8 +59,14 @@
       - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
       - [cpdos网站](https://cpdos.org/)
       - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
+  - HTTP request smuggling
+    - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
+    - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
+    - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
+  - MISC
+    - [代理测试指南](https://github.com/GrrrDog/weird_proxies)
 - **OS**
   - [Arm Heap Exploitation
 PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
@@ -66,7 +74,8 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - 提权
     - [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
   - 命令注入
-    - [巧用命令注入的N种方式](https://blog.zeddyu.info/2019/01/17/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/#%E5%A4%A7%E6%8B%AC%E5%8F%B7)
+    - [巧用命令注入的N种方式](https://mp.weixin.qq.com/s/Hm6TiLHiAygrJr-MGRq9Mw)
+    - [OS命令绕过技巧](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
 - **JavaScript**
   - 原型污染
     - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
@@ -117,6 +126,8 @@ Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-H
   - docker容器逃逸
     - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
     - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
+- **Fuzz**
+  - [Python fuzz tool: atheris](https://github.com/google/atheris)
 - **密码学**
   - RSA
     - [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
