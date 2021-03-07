@@ -1,5 +1,7 @@
 ## 0x00 简介
 
+![img](Python%E9%9D%99%E6%80%81%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7Pyre.assets/logo.png)
+
 **Pyre**是Facebook推出的一款Python语言的高性能类型检查器。Pyre可以快速分析数百万行代码的代码库，找出程序调用间变量的类型错误问题。
 
 **Pyre**工具中还集成了一个用于分析安全漏洞的静态扫描工具：**Pysa**。**Pysa**是基于**Pyre**的类型检查功能，通过静态污点分析技术，构建程序的调用图，从而发现程序执行流中的安全问题。
@@ -7,6 +9,8 @@
 本文档专注于介绍pysa模块的使用，pyre可以参照reference学习。
 
 ## 0x01 运行原理
+
+![Combining summaries to find an issue](Python%E9%9D%99%E6%80%81%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7Pyre.assets/issue_visualization.png)
 
 ## 0x02 配置文件
 
