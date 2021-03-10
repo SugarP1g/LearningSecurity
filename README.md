@@ -47,6 +47,7 @@
   - zip bomb
     - [zip炸弹制作](https://github.com/abdulfatir/ZipBomb)
     - [A better zip bomb](https://zerosun.top/2019/07/07/A-better-zip-bomb/)
+    - [The (Decompression) Bomb Site](https://bomb.codes/)
   - CRLF
     - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
   - CSRF
