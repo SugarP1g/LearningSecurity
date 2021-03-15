@@ -123,6 +123,7 @@ Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-H
   - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
   - SSTI
     - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
+  - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
 - **容器**
   - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
   - docker容器逃逸
