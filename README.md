@@ -32,6 +32,7 @@
       - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
       - [ReDOS攻击](https://lingwu111.github.io/ReDOS.html)
       - [在线检测redos](http://redos-checker.surge.sh/)
+      - [Regular Expression Denial of Service](https://www.checkmarx.com/wp-content/uploads/2015/03/ReDoS-Attacks.pdf)
     - SLOW HTTP 
       - [Slowhttptest攻击原理](https://cloud.tencent.com/developer/article/1180216)
   - blind regex injection
