@@ -27,6 +27,7 @@
     - 宽字节注入
       - [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
     - [PostgreSQL Injection](https://evi1cg.me/archives/PostgreSQL-Injection.html)
+    - [SQL Injection Lab](https://tryhackme.com/room/sqlilab)
   - DOS
     - ReDos
       - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
