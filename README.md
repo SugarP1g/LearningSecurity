@@ -146,3 +146,4 @@ Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-H
 - **MISC**
   - [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5)
   - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
+  - [HowToHunt](https://kathan19.gitbook.io/howtohunt/)
