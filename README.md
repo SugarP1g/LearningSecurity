@@ -127,6 +127,8 @@ Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-H
   - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
   - Fuzz
     - [Python fuzz tool: atheris](https://github.com/google/atheris)
+  - 反序列化
+    - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
 - **容器**
   - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
   - docker容器逃逸
