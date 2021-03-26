@@ -66,6 +66,9 @@
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
     - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
     - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
+  - TLS 投毒
+    - [一篇文章带你读懂 TLS Poison 攻击（一）](https://mp.weixin.qq.com/s/tAba3-qb5YGtlzH7y6PFvg)
+    - [When TLS Hacks You -- BlackHat2020](http://zeroyu.xyz/2020/08/11/When-TLS-Hacks-You-BlackHat2020/)
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
   - MISC
