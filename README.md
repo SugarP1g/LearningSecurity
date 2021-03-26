@@ -9,6 +9,9 @@
   - SSL/TLS
     - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
     - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
+    - [SSL/TLS协议详解(上)：密码套件，哈希，加密，密钥交换算法](https://xz.aliyun.com/t/2526)
+    - [SSL/TLS协议详解(中)——证书颁发机构](https://xz.aliyun.com/t/2530)
+    - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
   - XSS
     - [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
     - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
