@@ -136,11 +136,15 @@ Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-H
     - [Python fuzz tool: atheris](https://github.com/google/atheris)
   - 反序列化
     - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
-- **容器**
-  - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
-  - docker容器逃逸
-    - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
-    - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
+- **开源软件安全**
+  - Docker
+    - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
+    - docker容器逃逸
+      - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
+      - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
+  - Nginx
+    - [三个案例看Nginx配置安全](https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html) 
+    - [Nginx配置安全检测工具](https://github.com/yandex/gixy)
 - **密码学**
   - RSA
     - [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
