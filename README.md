@@ -20,6 +20,8 @@
     - [使用 Dom Clobbering 扩展 XSS](https://xz.aliyun.com/t/7329)
     - [XSS Game分析以及知识点总结](https://www.freebuf.com/articles/web/245209.html)
     - [XSS靶场](http://prompt.ml/4)
+    - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+    - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
   - XXE
     - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
