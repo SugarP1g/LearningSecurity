@@ -39,6 +39,11 @@
       - [Regular Expression Denial of Service](https://www.checkmarx.com/wp-content/uploads/2015/03/ReDoS-Attacks.pdf)
     - SLOW HTTP 
       - [Slowhttptest攻击原理](https://cloud.tencent.com/developer/article/1180216)
+    - 缓冲区投毒
+      - CPDoS
+        - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
+        - [cpdos网站](https://cpdos.org/)
+        - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
   - blind regex injection
     - [A Rough Idea of Blind Regular Expression Injection Attack](https://diary.shift-js.info/blind-regular-expression-injection/)
     - [Revisiting ReDoS: A Rough Idea of Data Exfiltration by ReDoS and Side-channel Techniques](https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques)
@@ -60,11 +65,6 @@
     - [CSRF攻击技术浅析](https://xz.aliyun.com/t/8186)
   - SSRF
     - [SSRF绕过方法总结](http://byd.dropsec.xyz/2017/11/21/SSRF%E7%BB%95%E8%BF%87%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
-  - 缓冲区投毒
-    - CPDoS
-      - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
-      - [cpdos网站](https://cpdos.org/)
-      - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
   - HTTP request smuggling
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
     - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
