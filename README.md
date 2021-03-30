@@ -157,17 +157,17 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
       - [我对Padding Oracle攻击的分析和思考](https://www.freebuf.com/articles/web/15504.html)
   - Web
     - 同源策略
-    - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
-  - HTTP请求头
-    - [一些安全相关的HTTP响应头](https://imququ.com/post/web-security-and-response-header.html)
-    - [安全相关HTTP响应头解读、配置、示例与检测](https://xz.aliyun.com/t/7202)
-  - SSL/TLS
-    - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
-    - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
-    - [SSL/TLS协议详解(上)：密码套件，哈希，加密，密钥交换算法](https://xz.aliyun.com/t/2526)
-    - [SSL/TLS协议详解(中)——证书颁发机构](https://xz.aliyun.com/t/2530)
-    - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
-  - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
+      - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+    - HTTP请求头
+      - [一些安全相关的HTTP响应头](https://imququ.com/post/web-security-and-response-header.html)
+      - [安全相关HTTP响应头解读、配置、示例与检测](https://xz.aliyun.com/t/7202)
+    - SSL/TLS
+      - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+      - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
+      - [SSL/TLS协议详解(上)：密码套件，哈希，加密，密钥交换算法](https://xz.aliyun.com/t/2526)
+      - [SSL/TLS协议详解(中)——证书颁发机构](https://xz.aliyun.com/t/2530)
+      - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
+    - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
 - **Tools**
   - Burpsuite
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
