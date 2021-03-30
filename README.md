@@ -134,6 +134,8 @@
     - Nginx
       - [三个案例看Nginx配置安全](https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html) 
       - [Nginx配置安全检测工具](https://github.com/yandex/gixy)
+      - 检查工具
+        - [gixy: 检查Nginx配置安全性](https://github.com/yandex/gixy)
     - [代理测试指南](https://github.com/GrrrDog/weird_proxies)
     - [A Fresh Look On Reverse Proxy Related Attacks](https://www.acunetix.com/blog/articles/a-fresh-look-on-reverse-proxy-related-attacks/)
     - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
