@@ -1,17 +1,6 @@
 # Hello, Security!
 
-- **web**
-  - 同源策略
-    - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
-  - HTTP请求头
-    - [一些安全相关的HTTP响应头](https://imququ.com/post/web-security-and-response-header.html)
-    - [安全相关HTTP响应头解读、配置、示例与检测](https://xz.aliyun.com/t/7202)
-  - SSL/TLS
-    - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
-    - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
-    - [SSL/TLS协议详解(上)：密码套件，哈希，加密，密钥交换算法](https://xz.aliyun.com/t/2526)
-    - [SSL/TLS协议详解(中)——证书颁发机构](https://xz.aliyun.com/t/2530)
-    - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
+- **按漏洞类型划分**
   - XSS
     - [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
     - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
@@ -73,6 +62,7 @@
     - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
   - HTTP参数投毒
     - [A Look at HTTP Parameter Pollution and How To Prevent It](https://securityintelligence.com/posts/how-to-prevent-http-parameter-pollution/) 
+    - [HTTP Parameter Pollution Vulnerabilities in Web Applications](https://www.blackhat.com/docs/webcast/bhwebcast28-balduzzi.pdf)
   - TLS 投毒
     - [一篇文章带你读懂 TLS Poison 攻击（一）](https://mp.weixin.qq.com/s/tAba3-qb5YGtlzH7y6PFvg)
     - [When TLS Hacks You -- BlackHat2020](http://zeroyu.xyz/2020/08/11/When-TLS-Hacks-You-BlackHat2020/)
@@ -81,6 +71,67 @@
     - [冰蝎](https://github.com/rebeyond/Behinder)
   - MISC
     - [代理测试指南](https://github.com/GrrrDog/weird_proxies)
+- **按编程语言划分**
+  - JavaScript 
+    - 原型污染
+      - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
+    - [Node.js 常见漏洞学习与总结](https://threezh1.com/2020/01/30/NodeJsVulns/)
+  - Java
+    - [Java 漏洞分析之远程调试方法总结](https://paper.seebug.org/1316/#weblogicdocker)
+    - 表达式注入
+      - OGNL注入
+        - [OGNL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/03/16/OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/#0x03-OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E)
+        - [浅析 OGNL 的攻防史](https://paper.seebug.org/794/)
+      - Spel表达式注入
+        - [SpEL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/01/10/SpEL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
+      - EL表达式注入
+        - [浅析EL表达式注入漏洞](https://xz.aliyun.com/t/7692)
+        - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
+      - JBoss EL表达式注入
+        - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
+    - 模板注入
+      - Freemarker模板注入
+        - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
+    - 反序列化
+      - 原理介绍
+        - [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/)
+      - XMLDecoder反序列化
+        - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
+      - XStream反序列化
+        - [Java XStream反序列化漏洞](https://www.mi1k7ea.com/2019/10/21/XStream%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
+      - Yaml反序列化
+        - [Java SnakeYaml反序列化漏洞](https://www.mi1k7ea.com/2019/11/29/Java-SnakeYaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
+      - Jackson反序列化
+        - [Jackson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/13/Jackson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
+      - Fastjson反序列化
+        - [Fastjson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/03/Fastjson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
+      - Gadget构造
+        - [Automated Discovery of
+  Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-Haken-Automated-Discovery-of-Deserialization-Gadget-Chains.pdf)
+        - [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector)
+    - JDWP
+      - [Hacking the Java Debug Wire Protocol – or – “How I met your Java debugger”](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)
+    - JMX
+      - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
+  - GoLang
+  - Python
+    - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
+    - SSTI
+      - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
+    - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
+    - Fuzz
+      - [Python fuzz tool: atheris](https://github.com/google/atheris)
+    - 反序列化
+      - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
+- **按开源软件划分**
+  - Docker
+    - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
+    - docker容器逃逸
+      - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
+      - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
+  - Nginx
+    - [三个案例看Nginx配置安全](https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html) 
+    - [Nginx配置安全检测工具](https://github.com/yandex/gixy)
 - **OS**
   - [Arm Heap Exploitation
 PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
@@ -90,72 +141,26 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - 命令注入
     - [巧用命令注入的N种方式](https://mp.weixin.qq.com/s/Hm6TiLHiAygrJr-MGRq9Mw)
     - [OS命令绕过技巧](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
-- **JavaScript**
-  - 原型污染
-    - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
-  - [Node.js 常见漏洞学习与总结](https://threezh1.com/2020/01/30/NodeJsVulns/)
-- **Java**
-  - [Java 漏洞分析之远程调试方法总结](https://paper.seebug.org/1316/#weblogicdocker)
-  - 表达式注入
-    - OGNL注入
-      - [OGNL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/03/16/OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/#0x03-OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E)
-      - [浅析 OGNL 的攻防史](https://paper.seebug.org/794/)
-    - Spel表达式注入
-      - [SpEL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/01/10/SpEL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
-    - EL表达式注入
-      - [浅析EL表达式注入漏洞](https://xz.aliyun.com/t/7692)
-      - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
-    - JBoss EL表达式注入
-      - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
-  - 模板注入
-    - Freemarker模板注入
-      - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
-  - 反序列化
-    - 原理介绍
-      - [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/)
-    - XMLDecoder反序列化
-      - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
-    - XStream反序列化
-      - [Java XStream反序列化漏洞](https://www.mi1k7ea.com/2019/10/21/XStream%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
-    - Yaml反序列化
-      - [Java SnakeYaml反序列化漏洞](https://www.mi1k7ea.com/2019/11/29/Java-SnakeYaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
-    - Jackson反序列化
-      - [Jackson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/13/Jackson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
-    - Fastjson反序列化
-      - [Fastjson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/03/Fastjson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
-    - Gadget构造
-      - [Automated Discovery of
-Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-Haken-Automated-Discovery-of-Deserialization-Gadget-Chains.pdf)
-      - [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector)
-  - JDWP
-    - [Hacking the Java Debug Wire Protocol – or – “How I met your Java debugger”](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)
-  - JMX
-    - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
-- **GoLang**
-- **Python**
-  - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
-  - SSTI
-    - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
-  - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
-  - Fuzz
-    - [Python fuzz tool: atheris](https://github.com/google/atheris)
-  - 反序列化
-    - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
-- **开源软件安全**
-  - Docker
-    - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
-    - docker容器逃逸
-      - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
-      - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
-  - Nginx
-    - [三个案例看Nginx配置安全](https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html) 
-    - [Nginx配置安全检测工具](https://github.com/yandex/gixy)
-- **密码学**
-  - RSA
-    - [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
-    - [RSA算法原理（二）](https://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
-  - AES
-    - [我对Padding Oracle攻击的分析和思考](https://www.freebuf.com/articles/web/15504.html)
+- **安全基础知识**
+  - 密码学
+    - RSA
+      - [RSA算法原理（一）](https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
+      - [RSA算法原理（二）](https://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
+    - AES
+      - [我对Padding Oracle攻击的分析和思考](https://www.freebuf.com/articles/web/15504.html)
+  - Web
+    - 同源策略
+    - [浏览器同源政策及其规避方法](https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+  - HTTP请求头
+    - [一些安全相关的HTTP响应头](https://imququ.com/post/web-security-and-response-header.html)
+    - [安全相关HTTP响应头解读、配置、示例与检测](https://xz.aliyun.com/t/7202)
+  - SSL/TLS
+    - [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+    - [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
+    - [SSL/TLS协议详解(上)：密码套件，哈希，加密，密钥交换算法](https://xz.aliyun.com/t/2526)
+    - [SSL/TLS协议详解(中)——证书颁发机构](https://xz.aliyun.com/t/2530)
+    - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
+  - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
 - **Tools**
   - Burpsuite
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
@@ -164,5 +169,4 @@ Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-H
     - [HackTricks](https://book.hacktricks.xyz/)
 - **MISC**
   - [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5)
-  - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
   - [HowToHunt](https://kathan19.gitbook.io/howtohunt/)
