@@ -111,14 +111,19 @@
       - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
   - GoLang
   - Python
-    - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
-    - SSTI
-      - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
-    - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
-    - Fuzz
-      - [Python fuzz tool: atheris](https://github.com/google/atheris)
-    - 反序列化
-      - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
+    - 漏洞
+      - SSTI
+        - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
+      - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
+      - 反序列化
+        - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
+    - 工具
+      - Fuzz
+        - [Python fuzz tool: atheris](https://github.com/google/atheris)
+      - 污点分析
+        - [Facebook Pyre](https://github.com/facebook/pyre-check)
+    - MISC
+      - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
 - **按开源软件划分**
   - Docker
     - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
