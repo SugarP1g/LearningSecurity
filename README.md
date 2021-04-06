@@ -167,6 +167,8 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
       - [SSL/TLS协议详解(中)——证书颁发机构](https://xz.aliyun.com/t/2530)
       - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
     - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
+- **企业安全建设**
+  - [浅谈如何有效落地DevSecOps](https://www.freebuf.com/articles/security-management/264610.html) 
 - **Tools**
   - Burpsuite
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
