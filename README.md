@@ -147,6 +147,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - 命令注入
     - [巧用命令注入的N种方式](https://mp.weixin.qq.com/s/Hm6TiLHiAygrJr-MGRq9Mw)
     - [OS命令绕过技巧](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
+  - [Linux的Cgroups在HIDS-Agent资源限制上的应用](https://www.freebuf.com/articles/system/265733.html)
 - **安全基础知识**
   - 密码学
     - RSA
