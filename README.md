@@ -121,6 +121,8 @@
           - [浅谈PyYAML反序列化漏洞](https://xz.aliyun.com/t/7923#toc-10)
           - [YAML Deserialization Attack in Python](https://www.exploit-db.com/docs/english/47655-yaml-deserialization-attack-in-python.pdf?utm_source=dlvr.it&utm_medium=twitter)
           - [pyyaml CVE-2020-14343](https://github.com/yaml/pyyaml/issues/420)
+        - jsonpickle
+          - [Jsonpickle Deserialization Issue](https://github.com/jsonpickle/jsonpickle/issues/332Jsonpickle ) 
     - 工具
       - Fuzz
         - [Python fuzz tool: atheris](https://github.com/google/atheris)
