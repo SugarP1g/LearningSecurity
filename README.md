@@ -60,6 +60,7 @@
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
     - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
     - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
+    - [HRS自动化测试工具](https://github.com/defparam/smuggler)
   - HTTP参数投毒
     - [A Look at HTTP Parameter Pollution and How To Prevent It](https://securityintelligence.com/posts/how-to-prevent-http-parameter-pollution/) 
     - [HTTP Parameter Pollution Vulnerabilities in Web Applications](https://www.blackhat.com/docs/webcast/bhwebcast28-balduzzi.pdf)
