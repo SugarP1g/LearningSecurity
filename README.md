@@ -116,7 +116,8 @@
         - [浅析Python Flask SSTI](https://www.mi1k7ea.com/2019/06/02/%E6%B5%85%E6%9E%90Python-Flask-SSTI/)
       - [一文看懂Python沙箱逃逸](https://www.freebuf.com/articles/system/203208.html)
       - 反序列化
-        - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
+        - pickle 
+          - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
         - Yaml
           - [浅谈PyYAML反序列化漏洞](https://xz.aliyun.com/t/7923#toc-10)
           - [YAML Deserialization Attack in Python](https://www.exploit-db.com/docs/english/47655-yaml-deserialization-attack-in-python.pdf?utm_source=dlvr.it&utm_medium=twitter)
