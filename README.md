@@ -183,6 +183,9 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - Burpsuite
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
     - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
+  - CodeQL
+    - [CodeQL官方文档](https://codeql.github.com/docs/)
+    - [CodeQL中文翻译文档](https://github.com/xsser/codeql_chinese)
 - **MISC**
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
