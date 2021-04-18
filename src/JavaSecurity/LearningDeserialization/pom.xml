@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
-    <artifactId>JavaSecurity</artifactId>
+    <groupId>com.SugarP1g</groupId>
+    <artifactId>deserialization</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -40,18 +40,18 @@
             <artifactId>juel-impl</artifactId>
             <version>2.2.7</version>
         </dependency>
-        <dependency>
-            <groupId>org.freemarker</groupId>
-            <artifactId>freemarker</artifactId>
-            <version>2.3.30</version>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.24</version>
         </dependency>
-
+        <!-- https://mvnrepository.com/artifact/commons-collections/commons-collections -->
+        <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>3.2.2</version>
+        </dependency>
 
     </dependencies>
 
