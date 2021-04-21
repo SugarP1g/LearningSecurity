@@ -93,6 +93,9 @@
     - 反序列化
       - 原理介绍
         - [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/)
+      - RMI
+        - [Java RMI for pentesters: structure, recon and communication (non-JMX Registries)](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79)
+        - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
       - XMLDecoder反序列化
         - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
       - XStream反序列化
