@@ -93,9 +93,6 @@
     - 反序列化
       - 原理介绍
         - [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/)
-      - RMI
-        - [Java RMI for pentesters: structure, recon and communication (non-JMX Registries)](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79)
-        - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
       - XMLDecoder反序列化
         - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
       - XStream反序列化
@@ -115,6 +112,23 @@
       - [Hacking the Java Debug Wire Protocol – or – “How I met your Java debugger”](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)
     - JMX
       - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
+    - RMI
+      - 大佬的Java RMI利用系列文章
+        - [Java RMI入门](http://scz.617.cn:8/network/202002221000.txt)
+        - [Java RMI入门(2)](http://scz.617.cn:8/network/202003081810.txt)
+        - [Java RMI入门(3)](http://scz.617.cn:8/network/202003121717.txt)
+        - [Java RMI入门(4)](http://scz.617.cn:8/network/202003191728.txt)
+        - [Java RMI入门(5)](http://scz.617.cn:8/network/202003241127.txt)
+        - [Java RMI入门(6)](http://scz.617.cn:8/network/202004011650.txt)
+        - [Java RMI入门(7)](http://scz.617.cn:8/network/202004101018.txt)
+        - [Java RMI入门(8)](http://scz.617.cn:8/network/202004141657.txt)
+        - [Java RMI入门(9)](http://scz.617.cn:8/network/202004161823.txt)
+        - [Java反序列化利用中绕过Registry白名单检查](http://scz.617.cn:8/network/202004211620.txt)
+        - [从RMI Registry中转储动态端口信息](http://scz.617.cn:8/network/202004232047.txt)
+      - [Java RMI for pentesters: structure, recon and communication (non-JMX Registries)](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79)
+      - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
+    - JNDI
+      - [8u191之后的JNDI注入(LDAP)](http://scz.617.cn:8/network/202005011956.txt)
   - GoLang
   - Python
     - 漏洞
