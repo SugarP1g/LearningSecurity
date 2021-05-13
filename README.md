@@ -165,6 +165,9 @@
     - [代理测试指南](https://github.com/GrrrDog/weird_proxies)
     - [A Fresh Look On Reverse Proxy Related Attacks](https://www.acunetix.com/blog/articles/a-fresh-look-on-reverse-proxy-related-attacks/)
     - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
+- **按协议划分**
+  - OAuth
+    - [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
 - **OS**
   - [Arm Heap Exploitation
 PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
