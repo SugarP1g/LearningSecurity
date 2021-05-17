@@ -102,7 +102,7 @@
       - Jackson反序列化
         - [Jackson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/13/Jackson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
       - Fastjson反序列化
-        - [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/#rce-payload)  
+        - [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/)
         - [Fastjson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/03/Fastjson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
       - Gadget构造
         - [Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
