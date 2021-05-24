@@ -12,17 +12,25 @@
     - [XSS靶场](http://prompt.ml/4)
     - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
     - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
-  - XXE
-    - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
-    - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
-  - 标签页劫持（Tabnabbing）
-    - [钓鱼攻击之Reverse Tabnabbing](https://xz.aliyun.com/t/7080)
+  - CRLF
+    - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
+  - CSRF
+    - [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
+    - [CSRF攻击技术浅析](https://xz.aliyun.com/t/8186)
+  - SSRF
+    - [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit#)
+    - [SSRF绕过方法总结](http://byd.dropsec.xyz/2017/11/21/SSRF%E7%BB%95%E8%BF%87%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
   - SQL注入
     - [SQL注入绕过技巧](http://byd.dropsec.xyz/2016/08/01/SQL-Injection%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7/)
     - 宽字节注入
       - [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
     - [PostgreSQL Injection](https://evi1cg.me/archives/PostgreSQL-Injection.html)
     - [SQL Injection Lab](https://tryhackme.com/room/sqlilab)
+  - 标签页劫持（Tabnabbing）
+    - [钓鱼攻击之Reverse Tabnabbing](https://xz.aliyun.com/t/7080)
+  - XXE
+    - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
+    - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
   - DOS
     - ReDos
       - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
@@ -50,13 +58,6 @@
   - Reflected File Download
     - [Reflected File Download A New Web Attack Vector](https://www.wooyaa.me/download/RFD.pdf)
     - [反射文件下载攻击](https://wooyaa.me/archives/RFD-Attack)
-  - CRLF
-    - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
-  - CSRF
-    - [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
-    - [CSRF攻击技术浅析](https://xz.aliyun.com/t/8186)
-  - SSRF
-    - [SSRF绕过方法总结](http://byd.dropsec.xyz/2017/11/21/SSRF%E7%BB%95%E8%BF%87%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/)
   - HTTP request smuggling
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
     - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
