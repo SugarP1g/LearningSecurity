@@ -59,6 +59,10 @@
     - [Reflected File Download A New Web Attack Vector](https://www.wooyaa.me/download/RFD.pdf)
     - [反射文件下载攻击](https://wooyaa.me/archives/RFD-Attack)
   - HTTP request smuggling
+    - H2C Smuggling
+      - [h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext (h2c)](https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c)
+    - WebSocket Smuggling
+      - [Smuggling HTTP requests over fake WebSocket connection](https://github.com/0ang3el/websocket-smuggle)
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
     - [协议层的攻击——HTTP请求走私](https://paper.seebug.org/1048/)
     - [一篇文章带你读懂 HTTP Smuggling 攻击](https://xz.aliyun.com/t/6878#toc-16)
