@@ -61,6 +61,7 @@
   - HTTP request smuggling
     - H2C Smuggling
       - [h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext (h2c)](https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c)
+      - [h2csmuggler](https://github.com/BishopFox/h2csmuggler)
     - WebSocket Smuggling
       - [Smuggling HTTP requests over fake WebSocket connection](https://github.com/0ang3el/websocket-smuggle)
     - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#top)
