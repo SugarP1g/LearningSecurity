@@ -32,6 +32,8 @@
       - [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
     - [PostgreSQL Injection](https://evi1cg.me/archives/PostgreSQL-Injection.html)
     - [SQL Injection Lab](https://tryhackme.com/room/sqlilab)
+  - 点击劫持
+    - [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/)
   - 标签页劫持（Tabnabbing）
     - [钓鱼攻击之Reverse Tabnabbing](https://xz.aliyun.com/t/7080)
   - XXE
