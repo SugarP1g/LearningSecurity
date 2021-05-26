@@ -12,6 +12,10 @@
     - [XSS靶场](http://prompt.ml/4)
     - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
     - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
+    - 绕过方法
+      - JSFuck
+        - [无需括号与分号的XSS](https://www.anquanke.com/post/id/178610)
+        - [JSFuck](http://www.jsfuck.com/)
   - CRLF
     - [新浪某站CRLF Injection导致的安全问题](https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html)
   - CSRF
