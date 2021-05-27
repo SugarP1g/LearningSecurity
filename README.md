@@ -147,6 +147,7 @@
       - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
     - JNDI
       - [8u191之后的JNDI注入(LDAP)](http://scz.617.cn:8/network/202005011956.txt)
+      - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
   - GoLang
   - Python
     - 漏洞
