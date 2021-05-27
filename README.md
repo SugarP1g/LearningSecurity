@@ -89,7 +89,6 @@
       - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
     - [Node.js 常见漏洞学习与总结](https://threezh1.com/2020/01/30/NodeJsVulns/)
   - Java
-    - [Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
     - [Java 漏洞分析之远程调试方法总结](https://paper.seebug.org/1316/#weblogicdocker)
     - 表达式注入
       - OGNL注入
@@ -147,6 +146,7 @@
       - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
     - JNDI
       - [8u191之后的JNDI注入(LDAP)](http://scz.617.cn:8/network/202005011956.txt)
+      - [Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
       - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
       - [Exploiting JNDI Injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java)
   - GoLang
