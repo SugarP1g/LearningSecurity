@@ -83,6 +83,8 @@
     - [一篇文章带你读懂 TLS Poison 攻击（一）](https://mp.weixin.qq.com/s/tAba3-qb5YGtlzH7y6PFvg)
     - [When TLS Hacks You -- BlackHat2020](http://zeroyu.xyz/2020/08/11/When-TLS-Hacks-You-BlackHat2020/)
     - [When TLS Hacks You 科普](https://mp.weixin.qq.com/s/-NABL-xz1Allxr6SKGiYcQ)
+  - 业务逻辑漏洞
+    - [攻防演练中的业务逻辑漏洞及检测思路](http://blog.nsfocus.net/business-logic-vulnerabilities-1208/)
 - **按编程语言划分**
   - JavaScript 
     - 原型污染
