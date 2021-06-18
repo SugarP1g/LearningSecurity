@@ -110,6 +110,7 @@
         - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
     - 反序列化
       - 原理介绍
+        - [反序列化流程分析总结](https://www.cnpanda.net/sec/928.html)
         - [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/)
       - XMLDecoder反序列化
         - [XMLDecoder解析流程分析](https://xz.aliyun.com/t/5069)
