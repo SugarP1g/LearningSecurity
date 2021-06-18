@@ -225,6 +225,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
       - [SSL/TLS协议详解(下)——TLS握手协议](https://xz.aliyun.com/t/2531)
     - [Unicode标准化对照表](https://appcheck-ng.com/wp-content/uploads/unicode_normalization.html)
 - **企业安全建设**
+  - [安全左移理念，腾讯DevSecOps如何实践？](https://security.tencent.com/index.php/blog/msg/191)
   - [浅谈如何有效落地DevSecOps](https://www.freebuf.com/articles/security-management/264610.html) 
   - [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
   - [实践之后，我们来谈谈如何做好威胁建模](https://tech.meituan.com/2021/04/08/threat-modeling-security.html)
