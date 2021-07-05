@@ -231,6 +231,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
   - [实践之后，我们来谈谈如何做好威胁建模](https://tech.meituan.com/2021/04/08/threat-modeling-security.html)
   - [聊聊漏洞自动修复技术的行业现状](https://mp.weixin.qq.com/s/xgwdhBSvE7yW0YcekGEWjA)
+  - [应用程序接口（API）数据安全研究报告（2020年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202007/P020200727599918681913.pdf)
 - **Tools**
   - Burpsuite
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
