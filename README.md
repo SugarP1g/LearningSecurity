@@ -244,6 +244,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
 - **MISC**
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
+    - [Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索](https://landgrey.me/blog/22/)
   - 如何成为一名黑客
     - [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5)
     - [HowToHunt](https://kathan19.gitbook.io/howtohunt/)
