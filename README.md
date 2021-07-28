@@ -194,6 +194,8 @@
     - [代理测试指南](https://github.com/GrrrDog/weird_proxies)
     - [A Fresh Look On Reverse Proxy Related Attacks](https://www.acunetix.com/blog/articles/a-fresh-look-on-reverse-proxy-related-attacks/)
     - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers)
+  - Redis
+    - [Redis 常见漏洞利用方法总结](https://www.freebuf.com/articles/network/280984.html)  
 - **按协议划分**
   - OAuth
     - [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
