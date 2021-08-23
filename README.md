@@ -242,6 +242,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
     - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
   - CodeQL
+    - [CodeQL从入门到放弃](https://www.freebuf.com/articles/web/283795.html)
     - [代码分析平台CodeQL学习手记](https://www.4hou.com/posts/o6wX)
     - [代码分析引擎 CodeQL 初体验](https://paper.seebug.org/1078/#_4)
     - [CodeQL官方文档](https://codeql.github.com/docs/)
