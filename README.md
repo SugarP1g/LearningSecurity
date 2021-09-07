@@ -112,6 +112,7 @@
     - 模板注入
       - Freemarker模板注入
         - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
+        - [逃逸安全的模板沙箱（一）——FreeMarker（上）](https://paper.seebug.org/1304/)
     - 反序列化
       - 原理介绍
         - [反序列化流程分析总结](https://www.cnpanda.net/sec/928.html)
