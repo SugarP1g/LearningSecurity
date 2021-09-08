@@ -110,6 +110,7 @@
       - JBoss EL表达式注入
         - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
     - 模板注入
+      - [Room for Escape: Scribbling Outside the Lines of Template Security](https://www.blackhat.com/us-20/briefings/schedule/#room-for-escape-scribbling-outside-the-lines-of-template-security-20292)
       - Freemarker模板注入
         - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
         - [逃逸安全的模板沙箱（一）——FreeMarker（上）](https://paper.seebug.org/1304/)
