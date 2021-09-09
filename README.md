@@ -56,6 +56,8 @@
         - [CPDoS：一种新的Web缓存污染攻击](https://www.anquanke.com/post/id/189507)
         - [cpdos网站](https://cpdos.org/)
         - [Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf)
+  - Zip Slip
+    - [Zip Slip Vulnerability](https://snyk.io/research/zip-slip-vulnerability)
   - blind regex injection
     - [A Rough Idea of Blind Regular Expression Injection Attack](https://diary.shift-js.info/blind-regular-expression-injection/)
     - [Revisiting ReDoS: A Rough Idea of Data Exfiltration by ReDoS and Side-channel Techniques](https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques)
