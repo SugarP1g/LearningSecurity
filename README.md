@@ -113,9 +113,11 @@
         - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
     - 模板注入
       - [Room for Escape: Scribbling Outside the Lines of Template Security](https://www.blackhat.com/us-20/briefings/schedule/#room-for-escape-scribbling-outside-the-lines-of-template-security-20292)
-      - Freemarker模板注入
+      - Freemarker 模板注入
         - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
         - [逃逸安全的模板沙箱（一）——FreeMarker（上）](https://paper.seebug.org/1304/)
+      - Velocity 模板注入
+        - [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/) 
     - 反序列化
       - 原理介绍
         - [反序列化流程分析总结](https://www.cnpanda.net/sec/928.html)
