@@ -100,6 +100,10 @@
       - Java沙箱
         - [浅析Java沙箱逃逸](https://www.mi1k7ea.com/2020/05/03/%E6%B5%85%E6%9E%90Java%E6%B2%99%E7%AE%B1%E9%80%83%E9%80%B8/#Java%E6%B2%99%E7%AE%B1%E7%AE%80%E4%BB%8B)
         - [AccessController.doPrivileged的作用](https://tech101.cn/2019/08/15/AccessController%E7%9A%84doPrivileged%E6%96%B9%E6%B3%95%E7%9A%84%E4%BD%9C%E7%94%A8)
+    - XML注入
+      - XXE
+        - [Java-XXE-总结](http://www.lmxspace.com/2019/10/31/Java-XXE-%E6%80%BB%E7%BB%93/)
+        - [探讨XXE防御之setFeature设置](https://www.mi1k7ea.com/2019/06/09/%E6%8E%A2%E8%AE%A8XXE%E9%98%B2%E5%BE%A1%E4%B9%8BsetFeature%E8%AE%BE%E7%BD%AE/) 
     - 表达式注入
       - OGNL注入
         - [OGNL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/03/16/OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/#0x03-OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E)
