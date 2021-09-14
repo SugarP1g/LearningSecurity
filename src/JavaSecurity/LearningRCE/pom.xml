@@ -8,5 +8,9 @@
     <artifactId>LearningRCE</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <parent>
+        <groupId>com.SugarP1g</groupId>
+        <artifactId>JavaSecurity</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 </project>
