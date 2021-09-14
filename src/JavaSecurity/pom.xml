@@ -23,6 +23,10 @@
         <module>LearningRCE</module>
         <module>LearningReDoS</module>
         <module>LearningSSTI</module>
+        <module>LearningScriptEngine</module>
+        <module>LearningSandboxEscape</module>
+        <module>LearningDirectoryTraversal</module>
+        <module>LearningJNDI</module>
     </modules>
 
 </project>
