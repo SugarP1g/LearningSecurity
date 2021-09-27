@@ -84,7 +84,7 @@
     - [A Look at HTTP Parameter Pollution and How To Prevent It](https://securityintelligence.com/posts/how-to-prevent-http-parameter-pollution/) 
     - [HTTP Parameter Pollution Vulnerabilities in Web Applications](https://www.blackhat.com/docs/webcast/bhwebcast28-balduzzi.pdf)
   - TLS 投毒
-    - [一篇文章带你读懂 TLS Poison 攻击（一）](https://mp.weixin.qq.com/s/tAba3-qb5YGtlzH7y6PFvg)
+    - [一篇文章带你读懂 TLS Poison 攻击](https://blog.zeddyu.info/2021/04/20/tls-poison/)
     - [When TLS Hacks You -- BlackHat2020](http://zeroyu.xyz/2020/08/11/When-TLS-Hacks-You-BlackHat2020/)
     - [When TLS Hacks You 科普](https://mp.weixin.qq.com/s/-NABL-xz1Allxr6SKGiYcQ)
   - 条件竞争
