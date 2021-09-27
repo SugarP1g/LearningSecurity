@@ -123,7 +123,10 @@
         - [Freemarker模板注入 Bypass](https://mp.weixin.qq.com/s/8YIVWtdqCAVPKaLXEZtFkg)
         - [逃逸安全的模板沙箱（一）——FreeMarker（上）](https://paper.seebug.org/1304/)
       - Velocity 模板注入
-        - [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/) 
+        - [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
+      - Thymeleaf 模板注入
+        - [Thymeleaf模板注入导致命令执行漏洞分析](https://www.freebuf.com/articles/network/250026.html)
+        - [Spring View Manipulation Vulnerability](https://github.com/veracode-research/spring-view-manipulation)
     - 反序列化
       - 原理介绍
         - [反序列化流程分析总结](https://www.cnpanda.net/sec/928.html)
