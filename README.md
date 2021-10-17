@@ -112,6 +112,9 @@
         - [浅析 OGNL 的攻防史](https://paper.seebug.org/794/)
       - Spel表达式注入
         - [SpEL表达式注入漏洞总结](https://www.mi1k7ea.com/2020/01/10/SpEL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
+        - [SPEL 表达式注入漏洞深入分析](https://paper.seebug.org/1694/)
+        - [Spring 全家桶各类 RCE 漏洞浅析](https://paper.seebug.org/1422/#spel)
+        - [Spring Data Commons Remote Code Execution 分析-【CVE-2018-1273】](https://xz.aliyun.com/t/2269)
       - EL表达式注入
         - [浅析EL表达式注入漏洞](https://xz.aliyun.com/t/7692)
         - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
