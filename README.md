@@ -129,6 +129,7 @@
       - Velocity 模板注入
         - [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
       - Thymeleaf 模板注入
+        - [java 安全开发之 spring boot Thymeleaf 模板注入](https://paper.seebug.org/1332/)
         - [Thymeleaf模板注入导致命令执行漏洞分析](https://www.freebuf.com/articles/network/250026.html)
         - [Spring View Manipulation Vulnerability](https://github.com/veracode-research/spring-view-manipulation)
     - 反序列化
