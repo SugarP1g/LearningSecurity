@@ -120,6 +120,8 @@
       - EL表达式注入
         - [浅析EL表达式注入漏洞](https://xz.aliyun.com/t/7692)
         - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
+      - Jexl
+        - [Nexus Repository Manager 3 RCE 分析 -【CVE-2019-7238】](https://xz.aliyun.com/t/4136)
       - JBoss EL表达式注入
         - [nuxeo rce 漏洞复现分析](https://xz.aliyun.com/t/3352)
     - 模板注入
