@@ -116,6 +116,7 @@
         - [SPEL 表达式注入漏洞深入分析](https://paper.seebug.org/1694/)
         - [Spring 全家桶各类 RCE 漏洞浅析](https://paper.seebug.org/1422/#spel)
         - [Spring Data Commons Remote Code Execution 分析-【CVE-2018-1273】](https://xz.aliyun.com/t/2269)
+        - [CVE-2017-17485: 远程下载bean配置文件导致表达式注入](https://www.cnblogs.com/afanti/p/10203282.html)
       - EL表达式注入
         - [浅析EL表达式注入漏洞](https://xz.aliyun.com/t/7692)
         - [remote code execution with el injection vulnerabilities](https://www.exploit-db.com/docs/english/46303-remote-code-execution-with-el-injection-vulnerabilities.pdf)
