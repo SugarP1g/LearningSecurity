@@ -40,6 +40,9 @@
     - [DTD 教程](https://www.w3school.com.cn/dtd/index.asp)
     - [XML 教程](https://www.w3school.com.cn/xml/index.asp)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
+  - XPath注入
+    - [XPath 教程](https://www.w3school.com.cn/xpath/index.asp)
+    - [XPath 注入指北](https://www.tr0y.wang/2019/05/11/XPath%E6%B3%A8%E5%85%A5%E6%8C%87%E5%8C%97/)
   - CORS错误配置
     - [Exploiting CORS misconfigurations for Bitcoins and bounties](https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties#top)
   - DOS
