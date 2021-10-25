@@ -37,7 +37,8 @@
   - 标签页劫持（Tabnabbing）
     - [钓鱼攻击之Reverse Tabnabbing](https://xz.aliyun.com/t/7080)
   - XXE
-    - [XML文档类型定义](http://210.34.136.253:8488/XML_Study_New/Chapter4.htm)
+    - [DTD 教程](https://www.w3school.com.cn/dtd/index.asp)
+    - [XML 教程](https://www.w3school.com.cn/xml/index.asp)
     - [Blind XXE详解与Google CTF一道题分析](https://www.freebuf.com/vuls/207639.html)
   - CORS错误配置
     - [Exploiting CORS misconfigurations for Bitcoins and bounties](https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties#top)
