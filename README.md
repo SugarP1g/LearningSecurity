@@ -141,6 +141,8 @@
         - [java 安全开发之 spring boot Thymeleaf 模板注入](https://paper.seebug.org/1332/)
         - [Thymeleaf模板注入导致命令执行漏洞分析](https://www.freebuf.com/articles/network/250026.html)
         - [Spring View Manipulation Vulnerability](https://github.com/veracode-research/spring-view-manipulation)
+      - Pebble
+        - [服务器端模板注入-以Pebble为例](https://research.securitum.com/server-side-template-injection-on-the-example-of-pebble/)
     - 反序列化
       - 原理介绍
         - [反序列化流程分析总结](https://www.cnpanda.net/sec/928.html)
