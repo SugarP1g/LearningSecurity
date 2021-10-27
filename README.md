@@ -190,6 +190,7 @@
       - [Java RMI for pentesters: structure, recon and communication (non-JMX Registries)](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79)
       - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
     - JNDI
+      - [JAVA JNDI注入基础与高版本限制绕过](https://threezh1.com/2021/01/02/JAVA_JNDI_Learn/)
       - [8u191之后的JNDI注入(LDAP)](http://scz.617.cn:8/network/202005011956.txt)
       - [Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
       - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
@@ -221,6 +222,7 @@
       - [Python 源码混淆与加密](https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw)
 - **按开源软件划分**
   - Docker
+    - [云原生安全初认识之容器安全 Cheat Sheet](https://threezh1.com/2021/02/26/%E4%BA%91%E5%8E%9F%E7%94%9F%E5%AE%89%E5%85%A8Cheat_Sheet/)
     - [Docker渗透思路调研](https://forum.90sec.com/t/topic/1338)
     - docker容器逃逸
       - [Docker逃逸小结 第一版](https://xz.aliyun.com/t/7881)
