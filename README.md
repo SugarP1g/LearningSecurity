@@ -280,6 +280,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - [应用程序接口（API）数据安全研究报告（2020年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202007/P020200727599918681913.pdf)
 - **Tools**
   - Burpsuite
+    - [BurpSuite Trick ALL In ONE (第一版)](https://forum.butian.net/share/686?&continueFlag=52c12e2e2fade49f105ad607843177bb)
     - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
     - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
   - CodeQL
