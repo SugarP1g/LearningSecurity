@@ -137,6 +137,7 @@
         - [逃逸安全的模板沙箱（一）——FreeMarker（上）](https://paper.seebug.org/1304/)
       - Velocity 模板注入
         - [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
+        - [TESTING VELOCITY SERVER-SIDE TEMPLATE INJECTION](https://antgarsil.github.io/posts/velocity/)
       - Thymeleaf 模板注入
         - [Exploiting SSTI in Thymeleaf](https://www.acunetix.com/blog/web-security-zone/exploiting-ssti-in-thymeleaf/)
         - [java 安全开发之 spring boot Thymeleaf 模板注入](https://paper.seebug.org/1332/)
