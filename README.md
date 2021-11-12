@@ -297,6 +297,8 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
     - [代码分析引擎 CodeQL 初体验](https://paper.seebug.org/1078/#_4)
     - [CodeQL官方文档](https://codeql.github.com/docs/)
     - [CodeQL中文翻译文档](https://github.com/xsser/codeql_chinese)
+  - crawlergo
+    - [crawlergo 动态爬虫源码学习](https://mp.weixin.qq.com/s/votEOvJafPjCka7gIB8DEA)
 - **MISC**
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
