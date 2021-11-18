@@ -164,6 +164,7 @@
         - [Fastjson 流程分析及 RCE 分析](https://paper.seebug.org/994/)
         - [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/)
         - [Fastjson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/03/Fastjson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
+        - [FastJson checkAutoType安全机制研究](https://kumamon.fun/FastJson-checkAutoType/)
         - [如何利用 JSON 反序列化 0day 窃取区块链上的金钱](https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Xing-How-I-Used-a-JSON.pdf)
         - [Blackhat 2021议题详细分析 ——FastJson反序列化漏洞及在区块链应用中的渗透利用](http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/)
       - Mysql JDBC反序列化
