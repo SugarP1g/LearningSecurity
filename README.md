@@ -217,6 +217,7 @@
       - 反序列化
         - pickle 
           - [pickle反序列化初探](https://xz.aliyun.com/t/7436)
+          - [Python 的另外几个反序列化漏洞检查点](https://b1ue.cn/archives/218.html)
         - Yaml
           - [浅谈PyYAML反序列化漏洞](https://xz.aliyun.com/t/7923#toc-10)
           - [YAML Deserialization Attack in Python](https://www.exploit-db.com/docs/english/47655-yaml-deserialization-attack-in-python.pdf?utm_source=dlvr.it&utm_medium=twitter)
