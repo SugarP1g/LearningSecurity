@@ -197,6 +197,8 @@
       - [Java RMI for pentesters: structure, recon and communication (non-JMX Registries)](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79)
       - [Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d)
     - JNDI
+      - [浅析JNDI注入](https://www.mi1k7ea.com/2019/09/15/%E6%B5%85%E6%9E%90JNDI%E6%B3%A8%E5%85%A5/)
+      - [浅析高低版JDK下的JNDI注入及绕过](https://www.mi1k7ea.com/2020/09/07/%E6%B5%85%E6%9E%90%E9%AB%98%E4%BD%8E%E7%89%88JDK%E4%B8%8B%E7%9A%84JNDI%E6%B3%A8%E5%85%A5%E5%8F%8A%E7%BB%95%E8%BF%87/)
       - [JAVA JNDI注入基础与高版本限制绕过](https://threezh1.com/2021/01/02/JAVA_JNDI_Learn/)
       - [8u191之后的JNDI注入(LDAP)](http://scz.617.cn:8/network/202005011956.txt)
       - [Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
