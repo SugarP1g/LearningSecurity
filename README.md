@@ -106,6 +106,7 @@
   - Java
     - [Java 漏洞分析之远程调试方法总结](https://paper.seebug.org/1316/#weblogicdocker)
     - [Java框架级SSM代码审计思路](https://www.freebuf.com/vuls/220197.html)
+    - [Identity Security Authentication Vulnerability](http://noahblog.360.cn/an-quan-ren-zheng-xiang-guan-lou-dong-wa-jue/)
     - Java 安全机制
       - Java沙箱
         - [浅析Java沙箱逃逸](https://www.mi1k7ea.com/2020/05/03/%E6%B5%85%E6%9E%90Java%E6%B2%99%E7%AE%B1%E9%80%83%E9%80%B8/#Java%E6%B2%99%E7%AE%B1%E7%AE%80%E4%BB%8B)
