@@ -163,6 +163,12 @@
       - Jackson反序列化
         - [Jackson 反序列化汇总](http://www.lmxspace.com/2019/07/30/Jackson-%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%B1%87%E6%80%BB/)
         - [Jackson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/13/Jackson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
+        - [Jackson系列二——CVE-2017-7525（基于TemplatesImpl利用链）](https://www.mi1k7ea.com/2019/11/16/Jackson%E7%B3%BB%E5%88%97%E4%BA%8C%E2%80%94%E2%80%94CVE-2017-7525%EF%BC%88%E5%9F%BA%E4%BA%8ETemplatesImpl%E5%88%A9%E7%94%A8%E9%93%BE%EF%BC%89/)
+        - [Jackson系列三——CVE-2017-17485（基于ClassPathXmlApplicationContext利用链）](https://www.mi1k7ea.com/2019/11/17/Jackson%E7%B3%BB%E5%88%97%E4%B8%89%E2%80%94CVE-2017-1748%EF%BC%88%E5%9F%BA%E4%BA%8EClassPathXmlApplicationContext%E5%88%A9%E7%94%A8%E9%93%BE%EF%BC%89/)
+        - [Jackson系列四——CVE-2019-12086（基于MiniAdmin利用链）](https://www.mi1k7ea.com/2019/11/19/Jackson%E7%B3%BB%E5%88%97%E5%9B%9B%E2%80%94%E2%80%94CVE-2019-12086%EF%BC%88%E5%9F%BA%E4%BA%8EMiniAdmin%E5%88%A9%E7%94%A8%E9%93%BE%EF%BC%89/)
+        - [Jackson系列五——CVE-2019-12384（基于logback利用链）](https://www.mi1k7ea.com/2019/11/22/Jackson%E7%B3%BB%E5%88%97%E4%BA%94%E2%80%94%E2%80%94CVE-2019-12384%EF%BC%88%E5%9F%BA%E4%BA%8Elogback%E5%88%A9%E7%94%A8%E9%93%BE%EF%BC%89/)
+        - [Jackson系列六——CVE-2019-12814（基于JDOM XSLTransformer利用链）](https://www.mi1k7ea.com/2019/11/24/Jackson%E7%B3%BB%E5%88%97%E5%85%AD%E2%80%94%E2%80%94CVE-2019-12814%EF%BC%88%E5%9F%BA%E4%BA%8EJDOM-XSLTransformer%E5%88%A9%E7%94%A8%E9%93%BE%EF%BC%89/)
+        - [Jackson系列七——其他Gadgets与检测防御](https://www.mi1k7ea.com/2019/11/24/Jackson%E7%B3%BB%E5%88%97%E4%B8%83%E2%80%94%E2%80%94%E5%85%B6%E4%BB%96Gadgets/)
       - Fastjson反序列化
         - [Fastjson 流程分析及 RCE 分析](https://paper.seebug.org/994/)
         - [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/)
