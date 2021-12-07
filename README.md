@@ -223,6 +223,8 @@
         - [Android漏洞扫描工具Code Arbiter](https://tech.meituan.com/2017/08/17/android-code-arbiter.html) 
         - [Taint analysis added to FindBugs](https://www.ysofters.com/2015/08/31/taint-analysis-added-to-findbugs/)
         - [SpotBugs manual](https://spotbugs.readthedocs.io/en/latest/index.html)
+      - RASP
+        - [Rasp 技术介绍与实现](https://paper.seebug.org/330/)
   - GoLang
   - Python
     - 漏洞
