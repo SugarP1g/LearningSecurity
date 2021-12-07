@@ -225,6 +225,10 @@
         - [SpotBugs manual](https://spotbugs.readthedocs.io/en/latest/index.html)
       - RASP
         - [Rasp 技术介绍与实现](https://paper.seebug.org/330/)
+        - [java Agent 简单学习](https://www.javaweb.org.cn/Ideas/java-agent-jian-dan-xue-xi.html#morphing)
+        - [浅谈RASP技术攻防之基础篇](https://www.javaweb.org.cn/Ideas/qian-tanrasp-ji-shu-gong-fang-zhi-ji-chu-pian.html#morphing)
+        - [浅谈RASP技术攻防之实战[环境配置篇]](https://www.javaweb.org.cn/Ideas/qian-tanrasp-ji-shu-gong-fang-zhi-shi-zhan-huan-ji.html#morphing)
+        - [浅谈RASP技术攻防之实战[代码实现篇]](https://www.javaweb.org.cn/Ideas/qian-tanrasp-ji-shu-gong-fang-zhi-shi-zhan-dai-ma.html#morphing)
   - GoLang
   - Python
     - 漏洞
