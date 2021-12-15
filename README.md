@@ -223,12 +223,13 @@
         - [Android漏洞扫描工具Code Arbiter](https://tech.meituan.com/2017/08/17/android-code-arbiter.html) 
         - [Taint analysis added to FindBugs](https://www.ysofters.com/2015/08/31/taint-analysis-added-to-findbugs/)
         - [SpotBugs manual](https://spotbugs.readthedocs.io/en/latest/index.html)
-      - RASP
+      - RASP&IAST
         - [Rasp 技术介绍与实现](https://paper.seebug.org/330/)
         - [java Agent 简单学习](https://www.javaweb.org.cn/Ideas/java-agent-jian-dan-xue-xi.html#morphing)
         - [浅谈RASP技术攻防之基础篇](https://xz.aliyun.com/t/4290)
         - [浅谈RASP技术攻防之实战[环境配置篇]](https://xz.aliyun.com/t/4902)
         - [浅谈RASP技术攻防之实战[代码实现篇]](https://xz.aliyun.com/t/4903)
+        - [浅谈被动式IAST产品与技术实现](http://tttang.com/archive/1375/)
   - GoLang
   - Python
     - 漏洞
