@@ -209,6 +209,7 @@
       - [浅析高低版JDK下的JNDI注入及绕过](https://www.mi1k7ea.com/2020/09/07/%E6%B5%85%E6%9E%90%E9%AB%98%E4%BD%8E%E7%89%88JDK%E4%B8%8B%E7%9A%84JNDI%E6%B3%A8%E5%85%A5%E5%8F%8A%E7%BB%95%E8%BF%87/)
       - [由JNDI注入引发的Spring Framework反序列化漏洞](https://www.mi1k7ea.com/2019/09/02/%E7%94%B1JNDI%E6%B3%A8%E5%85%A5%E5%AF%BC%E8%87%B4%E7%9A%84Spring-Framework%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
       - [JAVA JNDI注入基础与高版本限制绕过](https://threezh1.com/2021/01/02/JAVA_JNDI_Learn/)
+      - [搞懂RMI、JRMP、JNDI-终结篇](https://xz.aliyun.com/t/7264)
       - [8u191之后的JNDI注入(LDAP)](http://scz.617.cn:8/network/202005011956.txt)
       - [Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
       - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
