@@ -226,6 +226,9 @@
         - [浅谈RASP技术攻防之实战[环境配置篇]](https://xz.aliyun.com/t/4902)
         - [浅谈RASP技术攻防之实战[代码实现篇]](https://xz.aliyun.com/t/4903)
         - [浅谈被动式IAST产品与技术实现](http://tttang.com/archive/1375/)
+        - OpenRASP
+          - [Java底层防护 - OpenRASP核心源码浅析](https://xz.aliyun.com/t/7005)
+          - [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
       - Gadget构造
         - [Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
         - [java反序列化利用链自动挖掘工具gadgetinspector源码浅析](https://xz.aliyun.com/t/7058)
