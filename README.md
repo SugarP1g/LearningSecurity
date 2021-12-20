@@ -185,11 +185,6 @@
         - [MySQL JDBC客户端反序列化漏洞](http://scz.617.cn:8/network/202005262206.txt)
         - [MySQL JDBC反序列化漏洞](https://www.mi1k7ea.com/2021/04/23/MySQL-JDBC%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/) 
         - [MySQL Fake Server](https://github.com/fnmsd/MySQL_Fake_Server)
-      - Gadget构造
-        - [Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
-        - [Automated Discovery of
-  Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-Haken-Automated-Discovery-of-Deserialization-Gadget-Chains.pdf)
-        - [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector)
     - JDWP
       - [Hacking the Java Debug Wire Protocol – or – “How I met your Java debugger”](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)
     - JMX
@@ -219,6 +214,7 @@
       - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
       - [Exploiting JNDI Injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java)
     - 工具
+      - [详解Java自动代码审计工具实现](https://tttang.com/archive/1334/#toc_)
       - Find-Sec-Bugs
         - [Android漏洞扫描工具Code Arbiter](https://tech.meituan.com/2017/08/17/android-code-arbiter.html) 
         - [Taint analysis added to FindBugs](https://www.ysofters.com/2015/08/31/taint-analysis-added-to-findbugs/)
@@ -230,6 +226,14 @@
         - [浅谈RASP技术攻防之实战[环境配置篇]](https://xz.aliyun.com/t/4902)
         - [浅谈RASP技术攻防之实战[代码实现篇]](https://xz.aliyun.com/t/4903)
         - [浅谈被动式IAST产品与技术实现](http://tttang.com/archive/1375/)
+      - Gadget构造
+        - [Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
+        - [java反序列化利用链自动挖掘工具gadgetinspector源码浅析](https://xz.aliyun.com/t/7058)
+        - [改造gadgetinspector篇-自动化挖掘Fastjson gadget chain](https://xz.aliyun.com/t/7063)
+        - [浅析反序列化利用链自动化挖掘工具GadgetInspector](https://www.mi1k7ea.com/2020/05/11/%E6%B5%85%E6%9E%90%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8C%96%E6%8E%98%E5%B7%A5%E5%85%B7GadgetInspector/)
+        - [Automated Discovery of
+  Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-Haken-Automated-Discovery-of-Deserialization-Gadget-Chains.pdf)
+        - [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector)
   - GoLang
   - Python
     - 漏洞
