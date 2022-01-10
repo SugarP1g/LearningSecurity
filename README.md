@@ -337,6 +337,9 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - crawlergo
     - [crawlergo 动态爬虫源码学习](https://mp.weixin.qq.com/s/votEOvJafPjCka7gIB8DEA)
 - **MISC**
+  - GFW
+    - [Shadowsocks 是如何被检测和封锁的](https://gfw.report/blog/gfw_shadowsocks/zh.html)
+    - [Trojan基本原理](https://p4gefau1t.github.io/trojan-go/basic/trojan/)
   - WebShell
     - [冰蝎](https://github.com/rebeyond/Behinder)
     - [Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索](https://landgrey.me/blog/22/)
