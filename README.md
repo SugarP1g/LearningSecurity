@@ -292,6 +292,7 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - [gtfobins:Unix二进制的利用方法查询库](https://gtfobins.github.io/)
   - 提权
     - [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
+    - [CVE-2021-4034 pkexec 本地提权](https://mp.weixin.qq.com/s/3rnkcRfX_BxzlVzp0stQRw)
   - 命令注入
     - [巧用命令注入的N种方式](https://mp.weixin.qq.com/s/Hm6TiLHiAygrJr-MGRq9Mw)
     - [OS命令绕过技巧](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)
