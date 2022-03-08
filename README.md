@@ -232,6 +232,7 @@
           - [Java底层防护 - OpenRASP核心源码浅析](https://xz.aliyun.com/t/7005)
           - [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
       - Gadget构造
+        - [深入分析GadgetInspector核心代码](https://xz.aliyun.com/t/10363)
         - [Java 反序列化工具 gadgetinspector 初窥](https://paper.seebug.org/1034/)
         - [java反序列化利用链自动挖掘工具gadgetinspector源码浅析](https://xz.aliyun.com/t/7058)
         - [改造gadgetinspector篇-自动化挖掘Fastjson gadget chain](https://xz.aliyun.com/t/7063)
