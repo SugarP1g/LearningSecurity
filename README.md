@@ -105,6 +105,7 @@
     - [Node.js 常见漏洞学习与总结](https://threezh1.com/2020/01/30/NodeJsVulns/)
   - Java
     - [Java 漏洞分析之远程调试方法总结](https://paper.seebug.org/1316/#weblogicdocker)
+    - [从零开始，分析Spring Framework RCE](https://tttang.com/archive/1532/#toc_introspector)
     - [Java框架级SSM代码审计思路](https://www.freebuf.com/vuls/220197.html)
     - [Identity Security Authentication Vulnerability](http://noahblog.360.cn/an-quan-ren-zheng-xiang-guan-lou-dong-wa-jue/)
     - Java 安全机制
