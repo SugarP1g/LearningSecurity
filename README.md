@@ -274,6 +274,8 @@
       - [CVE-2019-14271：Docker copy漏洞分析](https://xz.aliyun.com/t/6806)
     - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://security.tencent.com/index.php/blog/msg/183)
     - [云原生安全攻防｜使用eBPF逃逸容器技术分析与实践](https://mp.weixin.qq.com/s/Psqy3X3VdUPga7f2cnct1g)
+  - K8S
+    - [K8s安全入门学习扫盲贴](https://tttang.com/archive/1465/)
   - 代理
     - Nginx
       - [三个案例看Nginx配置安全](https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html) 
