@@ -217,6 +217,9 @@
       - [浅谈 Log4j2 漏洞](https://tttang.com/archive/1378/)
       - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
       - [Exploiting JNDI Injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java)
+    - 开源三方件
+      - shiro
+        - [Shiro 历史漏洞分析](https://tttang.com/archive/1645/#toc_cve-2019-12422)
     - 工具
       - [详解Java自动代码审计工具实现](https://tttang.com/archive/1334/#toc_)
       - Find-Sec-Bugs
