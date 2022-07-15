@@ -98,6 +98,8 @@
     - [Race Condition](https://ctf-wiki.org/pwn/linux/race-condition/introduction/)
   - 业务逻辑漏洞
     - [攻防演练中的业务逻辑漏洞及检测思路](http://blog.nsfocus.net/business-logic-vulnerabilities-1208/)
+  - 侧信道攻击
+    - [漂亮侧信道：从timeless attack到pipeline的放大攻击](https://mp.weixin.qq.com/s/N6CWX9ZVnbyeYBIibwb0SA)
 - **按编程语言划分**
   - JavaScript 
     - 原型污染
