@@ -293,6 +293,9 @@
     - [Redis 常见漏洞利用方法总结](https://www.freebuf.com/articles/network/280984.html)
   - etcd
     - [云原生技术栈安全之etcd](https://mp.weixin.qq.com/s/5RorSaxl3HwBtKbmc4lctQ)
+  - apisix
+    - [Apache APISIX Attack Surface Research](https://ricterz.me/posts/2021-07-05-apache-apisix-attack-surface-research.txt)
+    - [apisix安全评估](https://mp.weixin.qq.com/s/3akg5WKWRTWc3aLaE1VDCg)
 - **按协议划分**
   - OAuth
     - [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
