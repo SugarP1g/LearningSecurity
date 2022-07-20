@@ -263,6 +263,8 @@
           - [pyyaml CVE-2020-14343](https://github.com/yaml/pyyaml/issues/420)
         - jsonpickle
           - [Jsonpickle Deserialization Issue](https://github.com/jsonpickle/jsonpickle/issues/332) 
+        - 格式化字符串漏洞
+          - [Python格式化字符串漏洞](https://xz.aliyun.com/t/288)
     - 工具
       - Fuzz
         - [Python fuzz tool: atheris](https://github.com/google/atheris)
