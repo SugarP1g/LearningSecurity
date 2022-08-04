@@ -106,6 +106,7 @@
       - [深入理解 JavaScript Prototype 污染攻击](https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html)
     - [Node.js 常见漏洞学习与总结](https://threezh1.com/2020/01/30/NodeJsVulns/)
   - Java
+    - [Oracle Java安全开发指南](https://docs.oracle.com/javase/8/docs/technotes/guides/security/index.html)
     - [Java 漏洞分析之远程调试方法总结](https://paper.seebug.org/1316/#weblogicdocker)
     - [从零开始，分析Spring Framework RCE](https://tttang.com/archive/1532/#toc_introspector)
     - [Java框架级SSM代码审计思路](https://www.freebuf.com/vuls/220197.html)
