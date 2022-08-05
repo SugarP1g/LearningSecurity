@@ -5,7 +5,7 @@
     - [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
     - [浅谈React框架的XSS及后利用](https://mp.weixin.qq.com/s/1AU2TEePckzSWpHyuEGGJQ)
     - [DOM-based XSS 与存储性 XSS、反射型 XSS 有什么区别？](https://www.zhihu.com/question/26628342)
-    - [深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html)
+    - [深入理解浏览器解析机制和XSS向量编码](https://www.attacker-domain.com/2013/04/deep-dive-into-browser-parsing-and-xss.html)
     - [SVG XSS的一个黑魔法](https://www.hackersb.cn/hacker/85.html)
     - [无需括号与分号的XSS](https://www.anquanke.com/post/id/178610)
     - [使用 Dom Clobbering 扩展 XSS](https://xz.aliyun.com/t/7329)
