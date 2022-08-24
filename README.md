@@ -194,6 +194,7 @@
       - [JDBC Connection URL Attack](https://su18.org/post/jdbc-connection-url-attack/)
       - [JDBC Attack Demo](https://github.com/su18/JDBC-Attack)
       - Mysql JDBC反序列化
+        - [New Exploit Technique In Java Deserialization Attack](https://i.blackhat.com/eu-19/Thursday/eu-19-Zhang-New-Exploit-Technique-In-Java-Deserialization-Attack.pdf)
         - [MySQL JDBC客户端反序列化漏洞](http://scz.617.cn:8/network/202005262206.txt)
         - [MySQL JDBC反序列化漏洞](https://www.mi1k7ea.com/2021/04/23/MySQL-JDBC%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/) 
         - [MySQL Fake Server](https://github.com/fnmsd/MySQL_Fake_Server)
