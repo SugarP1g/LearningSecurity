@@ -187,6 +187,12 @@
         - [FastJson checkAutoType安全机制研究](https://kumamon.fun/FastJson-checkAutoType/)
         - [如何利用 JSON 反序列化 0day 窃取区块链上的金钱](https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Xing-How-I-Used-a-JSON.pdf)
         - [Blackhat 2021议题详细分析 ——FastJson反序列化漏洞及在区块链应用中的渗透利用](http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/)
+    - JDBC Connection URL Attack
+      - [Make JDBC Attacks Brilliant Again I](https://pyn3rd.github.io/2022/06/06/Make-JDBC-Attacks-Brillian-Again-I/)
+      - [Make JDBC Attacks Brilliant Again II](https://pyn3rd.github.io/2022/06/02/Make-JDBC-Attacks-Brilliant-Again/)
+      - [JDBC Connection URL 攻击](https://paper.seebug.org/1832/#_9)
+      - [JDBC Connection URL Attack](https://su18.org/post/jdbc-connection-url-attack/)
+      - [JDBC Attack Demo](https://github.com/su18/JDBC-Attack)
       - Mysql JDBC反序列化
         - [MySQL JDBC客户端反序列化漏洞](http://scz.617.cn:8/network/202005262206.txt)
         - [MySQL JDBC反序列化漏洞](https://www.mi1k7ea.com/2021/04/23/MySQL-JDBC%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/) 
