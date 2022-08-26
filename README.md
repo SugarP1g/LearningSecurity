@@ -202,6 +202,8 @@
       - [Hacking the Java Debug Wire Protocol – or – “How I met your Java debugger”](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)
     - JMX
       - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
+      - [JMX Hacking](https://owasp.org/www-pdf-archive/JMX_-_Java_Management_Extensions_-_Hans-Martin_Muench.pdf)
+      - [beanshooter:JMX枚举和攻击工具](https://github.com/qtc-de/beanshooter)
     - RMI
       - 大佬的Java RMI利用系列文章
         - [Java RMI入门](http://scz.617.cn:8/network/202002221000.txt)
