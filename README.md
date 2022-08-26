@@ -311,6 +311,8 @@
   - apisix
     - [Apache APISIX Attack Surface Research](https://ricterz.me/posts/2021-07-05-apache-apisix-attack-surface-research.txt)
     - [apisix安全评估](https://mp.weixin.qq.com/s/3akg5WKWRTWc3aLaE1VDCg)
+  - electron
+    - [Electron Security Checklist](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
 - **按协议划分**
   - OAuth
     - [OAuth 2.0 authentication vulnerabilities](https://portswigger.net/web-security/oauth)
