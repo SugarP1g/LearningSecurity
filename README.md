@@ -261,6 +261,7 @@
         - [Automated Discovery of
   Deserialization Gadget Chains](https://i.blackhat.com/us-18/Thu-August-9/us-18-Haken-Automated-Discovery-of-Deserialization-Gadget-Chains.pdf)
         - [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector)
+        - [tabby原理分析](https://tttang.com/archive/1696/)
   - GoLang
   - Python
     - 漏洞
