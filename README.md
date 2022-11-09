@@ -177,6 +177,7 @@
         - [Jackson系列六——CVE-2019-12814（基于JDOM XSLTransformer利用链）](https://www.mi1k7ea.com/2019/11/24/Jackson%E7%B3%BB%E5%88%97%E5%85%AD%E2%80%94%E2%80%94CVE-2019-12814%EF%BC%88%E5%9F%BA%E4%BA%8EJDOM-XSLTransformer%E5%88%A9%E7%94%A8%E9%93%BE%EF%BC%89/)
         - [Jackson系列七——其他Gadgets与检测防御](https://www.mi1k7ea.com/2019/11/24/Jackson%E7%B3%BB%E5%88%97%E4%B8%83%E2%80%94%E2%80%94%E5%85%B6%E4%BB%96Gadgets/)
       - Fastjson反序列化
+        - [Fastjson反序列化RCE核心-四个关键点分析](https://threedr3am.github.io/2020/01/29/Fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96RCE%E6%A0%B8%E5%BF%83-%E5%9B%9B%E4%B8%AA%E5%85%B3%E9%94%AE%E7%82%B9%E5%88%86%E6%9E%90/)
         - [Fastjson 流程分析及 RCE 分析](https://paper.seebug.org/994/)
         - [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/)
         - [Fastjson系列一——反序列化漏洞基本原理](https://www.mi1k7ea.com/2019/11/03/Fastjson%E7%B3%BB%E5%88%97%E4%B8%80%E2%80%94%E2%80%94%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
