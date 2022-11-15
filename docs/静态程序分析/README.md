@@ -1,0 +1,5 @@
+- [南京大学静态程序分析课程文档](https://pascal-group.bitbucket.io/teaching.html)
+- [南京大学静态程序分析课程视频](https://www.bilibili.com/video/av91858985/)
+- [tabby原理分析](https://tttang.com/archive/1696/)
+- [Tai-e框架教学版本](https://tai-e.pascal-lab.net/lectures.html)
+- [Soot-Tutorial](https://github.com/noidsirius/SootTutorial)
