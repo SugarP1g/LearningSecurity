@@ -359,18 +359,21 @@ PART 1: UNDERSTANDING THE GLIBC HEAP IMPLEMENTATION](https://azeria-labs.com/hea
   - [聊聊漏洞自动修复技术的行业现状](https://mp.weixin.qq.com/s/xgwdhBSvE7yW0YcekGEWjA)
   - [应用程序接口（API）数据安全研究报告（2020年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202007/P020200727599918681913.pdf)
 - **Tools**
-  - Burpsuite
-    - [BurpSuite Trick ALL In ONE (第一版)](https://forum.butian.net/share/686?&continueFlag=52c12e2e2fade49f105ad607843177bb)
-    - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
-    - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
+  - 静态分析
+    - [用 LLM 降低白盒误报及自动修复漏洞代码](https://mp.weixin.qq.com/s/leLFECUaNOGbjsN_8mcXrQ)
   - CodeQL
     - [CodeQL从入门到放弃](https://www.freebuf.com/articles/web/283795.html)
     - [代码分析平台CodeQL学习手记](https://www.4hou.com/posts/o6wX)
     - [代码分析引擎 CodeQL 初体验](https://paper.seebug.org/1078/#_4)
     - [CodeQL官方文档](https://codeql.github.com/docs/)
     - [CodeQL中文翻译文档](https://github.com/xsser/codeql_chinese)
-  - crawlergo
-    - [crawlergo 动态爬虫源码学习](https://mp.weixin.qq.com/s/votEOvJafPjCka7gIB8DEA)
+  - WEB
+    - Burpsuite
+      - [BurpSuite Trick ALL In ONE (第一版)](https://forum.butian.net/share/686?&continueFlag=52c12e2e2fade49f105ad607843177bb)
+      - [Burp Suite 文档手册](https://www.bookstack.cn/read/BurpSuite/AuthKey.MD)
+      - [burpsuite实战指南](https://t0data.gitbooks.io/burpsuite/content/chapter6.html)
+    - crawlergo
+      - [crawlergo 动态爬虫源码学习](https://mp.weixin.qq.com/s/votEOvJafPjCka7gIB8DEA)
 - **MISC**
   - GFW
     - [Shadowsocks 是如何被检测和封锁的](https://gfw.report/blog/gfw_shadowsocks/zh.html)
