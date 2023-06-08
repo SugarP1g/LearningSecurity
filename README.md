@@ -204,6 +204,7 @@
     - JDWP
       - [Hacking the Java Debug Wire Protocol – or – “How I met your Java debugger”](https://ioactive.com/hacking-java-debug-wire-protocol-or-how/)
     - JMX
+      - [梦游一次从jmx到rce](https://y4er.com/posts/from-jmx-to-rce/)
       - [JMX远程代码漏洞研究](https://www.freebuf.com/vuls/231132.html)
       - [JMX Hacking](https://owasp.org/www-pdf-archive/JMX_-_Java_Management_Extensions_-_Hans-Martin_Muench.pdf)
       - [beanshooter:JMX枚举和攻击工具](https://github.com/qtc-de/beanshooter)
