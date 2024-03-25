@@ -117,6 +117,9 @@
       - Java沙箱
         - [浅析Java沙箱逃逸](https://www.mi1k7ea.com/2020/05/03/%E6%B5%85%E6%9E%90Java%E6%B2%99%E7%AE%B1%E9%80%83%E9%80%B8/#Java%E6%B2%99%E7%AE%B1%E7%AE%80%E4%BB%8B)
         - [AccessController.doPrivileged的作用](https://tech101.cn/2019/08/15/AccessController%E7%9A%84doPrivileged%E6%96%B9%E6%B3%95%E7%9A%84%E4%BD%9C%E7%94%A8)
+        - [Java沙箱逃逸走过的二十个春秋（一）](https://xz.aliyun.com/t/2840?time__1311=n4%2BxniDQit0%3DeOxmx0H%2Bbze0QDk8bKk%3Dw4D&alichlgref=https%3A%2F%2Fxz.aliyun.com%2Fu%2F8411%3Fpage%3D3)
+        - [Java沙箱逃逸走过的二十个春秋（二）](https://xz.aliyun.com/t/2844?time__1311=n4%2BxniDQit0%3DexGTe0H%2Bbze0QDk8DR7ep7noD&alichlgref=https%3A%2F%2Fxz.aliyun.com%2Fu%2F8411%3Fpage%3D3)
+        - [Java沙箱逃逸走过的二十个春秋（三）](https://xz.aliyun.com/t/2847?time__1311=n4%2BxniDQit0%3DexGqAKDsE3grDuDjExiKwpAYNx&alichlgref=https%3A%2F%2Fxz.aliyun.com%2Fu%2F8411%3Fpage%3D3)
     - XML注入
       - XXE
         - [Java-XXE-总结](http://www.lmxspace.com/2019/10/31/Java-XXE-%E6%80%BB%E7%BB%93/)
