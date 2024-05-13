@@ -240,6 +240,10 @@
       - [浅谈 Log4j2 漏洞](https://tttang.com/archive/1378/)
       - [A JOURNEY	FROM JNDI/LDAP	MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE-wp.pdf)
       - [Exploiting JNDI Injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java)
+    - 内存马
+      - [零基础从0到1掌握Java内存马（1）](https://xz.aliyun.com/t/13638)
+      - [零基础从0到1掌握Java内存马（2）](https://xz.aliyun.com/t/13639)
+      - [零基础从0到1掌握Java内存马（3）](https://xz.aliyun.com/t/13640)
     - 开源三方件
       - shiro
         - [Shiro 历史漏洞分析](https://tttang.com/archive/1645/#toc_cve-2019-12422)
