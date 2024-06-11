@@ -48,6 +48,9 @@
     - [XPath 注入指北](https://www.tr0y.wang/2019/05/11/XPath%E6%B3%A8%E5%85%A5%E6%8C%87%E5%8C%97/)
   - CORS错误配置
     - [Exploiting CORS misconfigurations for Bitcoins and bounties](https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties#top)
+  - TOA
+    - [【不可防御】TOA 伪造来源IP之殇](https://cn-sec.com/archives/2281455.html)
+    - [工具FAKETOA](https://github.com/passwa11/FakeToa/tree/master)
   - DOS
     - ReDos
       - [ReDOS初探](http://www.lmxspace.com/2019/02/16/ReDOS%E5%88%9D%E6%8E%A2/)
